@@ -2,5 +2,3 @@ main()
 {
 this is not a language;
 }
-
-hello
