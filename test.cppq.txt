@@ -9,4 +9,7 @@ this  x is not a language;
 
 newfunc()
 {
+this is not a language;
 }
+
+hello
