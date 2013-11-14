@@ -1,4 +1,12 @@
+hello()
+{
+}
+
 main()
 {
-this is not a language;
+this  x is not a language;
+}
+
+newfunc()
+{
 }
