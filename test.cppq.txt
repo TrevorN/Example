@@ -8,3 +8,8 @@ this  x is not a language;
 }
 
 hello
+
+anothernewFunction()
+{
+This is another function
+}
